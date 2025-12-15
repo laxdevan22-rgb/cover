@@ -1,0 +1,48 @@
+  body {
+            font-size: Arial;
+            background:linear-gradient;
+        }
+        .box {
+            height: 700px;
+            width: 500px;
+            background-image:url(coverback.jpeg);
+            background-size: cover;
+            color:rgb(14, 12, 12);
+            padding: 20px;
+            margin: 30px auto;
+            border: 2px solid blue;
+            border-radius: 10px;
+        }
+        .quote {
+            background: rgb(198, 214, 214);
+            padding: 10px;
+            border-left: 4px solid blue;
+            margin: 20px 0;
+            font-style: italic;
+            text-align: center;
+            border-end-end-radius: 10px;
+        }
+        .author {
+            display: flex;
+            gap: 15px;
+            background:rgb(15, 40, 231);
+            padding: 10px;
+            border-start-end-radius: 5px;
+        }
+        .author b{
+            color:rgb(242, 245, 245);
+        }
+        .author img {
+            width: 80px;
+            height: 90px;
+            border-radius: 5px;
+        }
+        .footer {
+            background: rgb(44, 50, 121);
+            color: rgb(247, 227, 11);
+            display: flex;
+            padding: 10;
+            justify-content: space-between;
+            margin-top: 100px;
+            border-end-end-radius: 5px;
+        }
