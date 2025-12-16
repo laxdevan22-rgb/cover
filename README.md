@@ -145,7 +145,7 @@ devan.css
 ```
 
  ## OUTPUT:
-![alt text](<sona/coverapp/static/Screenshot 2025-12-15 231658.png>)
+![alt text](<sona/coverapp/static/Screenshot 2025-12-16 115701.png>)
 
 ## RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
